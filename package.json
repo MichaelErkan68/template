@@ -1,6 +1,6 @@
 {
   "name": "template",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "A super-simple way to create new projects based on templates.",
   "main": "src/index.ts",
   "scripts": {
